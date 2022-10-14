@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Debjyoti Kumar Gupta</h1>
-<h3 align="center">A passionate Software developer from India</h3>yotikumargupta&label=Profile%20views&color=0e75b6&style=flat" alt="debjyotikumargupta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debjyotikumargupta" alt="debjyotikumargupta" /></a> </p>
+<h1 align="center">Hi 👋, I'm Debjyoti Kumar Gupta</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+<img align="right" alt="Coding" width="350" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Algorithm Visualizer**
 
 - 🌱 I’m currently learning **Data Structure And Algorithm**
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **https://www.instagram.com/devo_karan_gupta/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
