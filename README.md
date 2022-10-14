@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Debjyoti Kumar Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
+<img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
